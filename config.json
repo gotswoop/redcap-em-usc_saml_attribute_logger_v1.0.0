@@ -1,0 +1,16 @@
+{
+  "name": "USC SAML Attribute Logger",
+  "namespace": "SamlAttributeLogger",
+  "framework-version": 16,
+  "version": "1.0.0",
+  "description": "System-level SAML attribute logger with auto-create table if missing.",
+  "authors": [
+	{
+	  "name": "Swaroop Samek",
+	  "email": "ssamek@usc.edu",
+	  "institution": "University of Southern California"
+	}
+  ],
+  "enable-every-page-hooks-on-system-pages": true,
+  "hidden": true
+}
